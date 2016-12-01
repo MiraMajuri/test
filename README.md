@@ -4,4 +4,4 @@ hei
 
 *italic*
 
-[linkki](test/dokumentointi/kaytto-ohje.md)
+[linkki](https://github.com/MiraMajuri/test/blob/master/dokumentointi/kaytto-ohje.md)
